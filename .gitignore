@@ -1,0 +1,10 @@
+config/
+cache/
+core/
+errors/
+hooks/
+language/
+helpers/
+logs/
+third_party/
+.htaccess
